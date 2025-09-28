@@ -3,8 +3,6 @@
 
 # RFID Based Door Lock System  
 
-# RFID Based Door Lock System
-
 ## 🎯 Objective  
 To design a secure door lock that only opens with an authorized RFID tag.
 
